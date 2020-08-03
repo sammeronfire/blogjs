@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
-const  marked = require('marked')
-const  slugify = require('slugify')
+const marked = require('marked')
+const slugify = require('slugify')
 
 const articleSchema = new mongoose.Schema({
     title: {
@@ -34,8 +34,6 @@ articleSchema.pre('validate', function(next) {
     next()
 })
 
-router.delete('/:id', (req, res) => {
-    
-})
+
 
 module.exports = mongoose.model('Article', articleSchema)
