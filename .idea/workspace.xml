@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="26b4ed6c-371a-451a-a76d-519534a4f97b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/articles.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/articles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/articles/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/articles/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shoppingCart" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -59,7 +57,8 @@
       <workItem from="1595867726337" duration="262000" />
       <workItem from="1596436870797" duration="8777000" />
       <workItem from="1596448143625" duration="313000" />
-      <workItem from="1596448475717" duration="15264000" />
+      <workItem from="1596448475717" duration="18949000" />
+      <workItem from="1596606020540" duration="625000" />
     </task>
     <servers />
   </component>
@@ -82,6 +81,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1011" y="316" key="FileChooserDialogImpl" timestamp="1596606813656">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1011" y="316" key="FileChooserDialogImpl/-1366.311.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1596606813656" />
     <state x="890" y="325" key="IDE.errors.dialog" timestamp="1596448265265">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
